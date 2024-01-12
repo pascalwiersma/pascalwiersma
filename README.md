@@ -4,7 +4,10 @@ I'm Pascal, 18 year's old and my passion is creating websites and backend-system
 
 # Skills 🚀
 👨‍💻 Javascript (React/NextJS)
+
 💻 PHP (PDO)
+
 👁️ CSS, Bootstrap & TailwindCSS
+
 💾 MySQL (Prisma ORM)
 
